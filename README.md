@@ -143,7 +143,7 @@ Real-world problem solving
 
 #  Things I've Built
 
-## 📍 MapMyMemoir
+## MapMyMemoir
 
 ### *Location-Based Journaling Platform*
 
@@ -216,24 +216,31 @@ Career Roadmap
 
 ---
 
-#💼 Virtual Experience
- AI for Sustainability Virtual Intern
+# 💼 Virtual Experience
 
-1M1B · AICTE · IBM SkillsBuild
-Dec 2025 – Jan 2026
+##  AI for Sustainability Virtual Intern
 
-A project-based virtual internship focused on exploring how Artificial Intelligence can address real-world sustainability challenges.
+**1M1B · AICTE · IBM SkillsBuild**  
+`Dec 2025 – Jan 2026`
 
-Areas Explored
+A project-based virtual internship focused on exploring how **Artificial Intelligence** can address real-world sustainability challenges.
 
-Generative AI · Agentic AI · RAG
+### 🔍 Areas Explored
 
-Prompt Engineering · Responsible AI
+`Generative AI` · `Agentic AI` · `RAG`
 
-The experience also covered AI-driven problem solving, data-driven decision making, sustainability applications, ethical AI practices, and the UN Sustainable Development Goals.
+`Prompt Engineering` · `Responsible AI`
 
-This experience strengthened my interest in using AI not only as a technology, but as a tool for solving meaningful real-world problems.
+### 🌱 Key Learning Areas
 
+- AI-driven problem solving
+- Data-driven decision making
+- Sustainability applications
+- Ethical AI practices
+- Responsible AI
+- UN Sustainable Development Goals (SDGs)
+
+> This experience strengthened my interest in using AI not only as a technology, but as a tool for solving **meaningful real-world problems**.
 ---
 
 # Design meets Development
@@ -379,7 +386,6 @@ If you're interested in **frontend development, UI/UX, AI-powered products or ju
 
 <div align="center">
 
-### 🌷 Thanks for stopping by!
 
 **Keep learning. Keep building. Keep creating.**
 
