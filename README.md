@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm SG.Sanju Meha👋
 
-<!--
-**sanjumeha19/sanjumeha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student • Frontend Developer • UI/UX Designer
 
-Here are some ideas to get you started:
+I enjoy building clean, practical and user-friendly
+web experiences while exploring AI and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+• AI-powered career tools
+• AI fashion & styling experiences
+• Interactive web applications
+• UI/UX-focused frontend projects
+
+## 💻 Tech Stack
+
+Java • Python • JavaScript • TypeScript
+React • Next.js • Node.js
+HTML • CSS • Tailwind CSS
+MySQL • PostgreSQL • Supabase
+
+## 🎨 Design
+
+Figma • UI/UX Design • Adobe Illustrator
+
+## 🌱 Currently Learning
+
+DSA • Full-Stack Development • AI Integration
+
+## 📌 Featured Projects
+
+Velora
+MiraLook
+MapMyMemoir
+Portfolio
+
+## 🤝 Let's Connect
+
+Portfolio • LinkedIn • GitHub
