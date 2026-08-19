@@ -67,7 +67,7 @@ Test • Improve • Learn
 <tr>
 <td width="33%" align="center">
 
-### 🎨 UI / UX
+### UI / UX
 
 Clean interfaces
 Wireframes
@@ -78,7 +78,7 @@ User-focused design
 
 <td width="33%" align="center">
 
-### 💻 Frontend
+### Frontend
 
 Responsive interfaces
 Interactive experiences
@@ -89,7 +89,7 @@ Web applications
 
 <td width="33%" align="center">
 
-### 🤖 AI & Product
+###  AI & Product
 
 AI-powered ideas
 Career technology
@@ -104,19 +104,19 @@ Real-world problem solving
 
 ## 🛠️ Technical Toolkit
 
-### 👩‍💻 Languages
+###  Languages
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Frontend
+###  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚛️ Technologies
+###  Technologies Used
 
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -124,24 +124,24 @@ Real-world problem solving
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Database
+###  Database
 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🎨 Design
+###  Design
 
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/ADOBE_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
-### 🔧 Tools
+###  Tools
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 
-# 🚀 Things I've Built
+#  Things I've Built
 
 ## 📍 MapMyMemoir
 
@@ -169,7 +169,7 @@ MapMyMemoir allows users to create memories, attach locations, and revisit them 
 
 ---
 
-## 🤖 Velora
+##  Velora
 
 ### *AI Career Assistant · Personal Project · In Progress*
 
@@ -216,23 +216,27 @@ Career Roadmap
 
 ---
 
-# 🧠 AI Journey
+#💼 Virtual Experience
+ AI for Sustainability Virtual Intern
 
-During my **AI for Sustainability Virtual Internship**, I explored how AI can be applied to real-world sustainability challenges.
+1M1B · AICTE · IBM SkillsBuild
+Dec 2025 – Jan 2026
 
-### Areas I explored
+A project-based virtual internship focused on exploring how Artificial Intelligence can address real-world sustainability challenges.
 
-`Generative AI` · `Agentic AI` · `RAG`
+Areas Explored
 
-`Prompt Engineering` · `Responsible AI`
+Generative AI · Agentic AI · RAG
 
-Alongside the technical concepts, I explored **data-driven decision making, ethical AI practices, sustainability use cases and the UN Sustainable Development Goals.**
+Prompt Engineering · Responsible AI
 
-This experience helped me become more interested in not just **what AI can do**, but also **how it should be used responsibly.**
+The experience also covered AI-driven problem solving, data-driven decision making, sustainability applications, ethical AI practices, and the UN Sustainable Development Goals.
+
+This experience strengthened my interest in using AI not only as a technology, but as a tool for solving meaningful real-world problems.
 
 ---
 
-# 🎨 Design meets Development
+# Design meets Development
 
 One thing I particularly enjoy is moving between these two worlds:
 
