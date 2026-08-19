@@ -1,206 +1,367 @@
 <div align="center">
-✨ Hi, I'm SG. Sanju Meha 
 
-💻 CSE Student • Frontend Developer • UI/UX Designer
+# 🌷 SG. Sanju Meha
+
+### `CSE Student` · `Frontend Developer` · `UI/UX Designer`
 
 <p>
-Building clean, creative and user-friendly digital experiences
+I enjoy turning ideas into <b>clean interfaces, thoughtful user experiences,
 <br>
-while exploring <b>AI & Full-Stack Development</b>.
+and practical digital products.</b>
+</p>
+
+<p>
+Currently exploring the space where <b>Frontend Development × UI/UX × AI</b> meet.
 </p>
 
 <br>
 
 <a href="https://sanjumeha19.github.io/SGSanjuMeha-portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-8BA888?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20My%20Work-8BA888?style=for-the-badge" />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/sanjumeha/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sanjumeha19@gmail.com">
+<img src="https://img.shields.io/badge/📩%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
-
----
-
-## 🌷 About Me
-
-I'm a **Computer Science Engineering student** who enjoys turning ideas into interactive, visually engaging and useful digital experiences.
-
-I love working at the intersection of **Development, Design and AI** — creating interfaces that not only work well, but also feel intuitive and enjoyable to use.
-
-* 💻 Passionate about **Frontend Development**
-* 🎨 Interested in **UI/UX & Product Design**
-* 🤖 Exploring **AI-powered applications**
-* 🌱 Currently strengthening my **DSA & Full-Stack Development** skills
-* 🚀 Always learning, building and experimenting with new ideas
-* 💡 Interested in creating technology that solves practical problems
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Development
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 🗄️ Database & Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-### 🎨 Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌿 Velora — AI Career Assistant
-
-An AI-powered career platform designed to help students and job seekers become more career-ready.
-
-**✨ Key Features**
-
-* 📄 AI Resume Analyzer
-* 🎯 ATS Score & Resume Feedback
-* 🔍 Job Description Matching
-* ✨ AI Resume Improvement
-* 📝 Cover Letter Generation
-* 🎤 AI Interview Preparation
-* 🧠 Skill Gap Analysis
-* 🗺️ Career Roadmap
-* 🤖 AI Career Coach
-
-**Tech Focus:** AI • Full Stack • Next.js • React • UI/UX
-
----
-
-### 👗 MiraLook — AI Fashion Assistant
-
-An AI-powered fashion styling experience that helps users discover personalized looks based on their preferences, occasions and personal style.
-
-**✨ Key Features**
-
-* 👚 Personalized outfit recommendations
-* ✨ AI-powered styling
-* 💬 Conversational fashion assistant
-* 🎨 Occasion-based styling
-* 🧍 Personalized style suggestions
-* 🖥️ Interactive conversational interface
-
-**Tech Focus:** AI • Fashion Tech • Conversational UI • Frontend
-
----
-
-### 📖 MapMyMemoir
-
-A digital journaling experience designed to help users capture, organize and revisit meaningful memories through an interactive interface.
-
-**Tech Focus:** React • JavaScript • UI/UX • Frontend Development
-
----
-
-## 🎨 Things I Love Building
-
-<div align="center">
-
-|  💻 Web Experiences  | 🤖 AI Applications |     🎨 UI/UX     |
-| :------------------: | :----------------: | :--------------: |
-| Interactive Websites |    AI Assistants   | Clean Interfaces |
-|   Web Applications   |     Smart Tools    | User Experiences |
-|  Responsive Designs  |     AI Features    |  Product Design  |
-
-</div>
-
-I believe a good digital product should not only **work well** —
-it should also **feel good to use.** ♡
-
----
-
-## 🌱 Currently Learning
-
-```text
-DSA & Problem Solving
-        ↓
-Full-Stack Development
-        ↓
-AI Integration
-        ↓
-Advanced React & Next.js
-        ↓
-Building Production-Ready Applications
-```
-
----
-
-## 💡 My Development Philosophy
-
-<div align="center">
-
-### "Build with purpose. Design with empathy. Learn continuously."
 
 <br>
 
-💭 Concept
-   ↓
-🎨 Design
-   ↓
-💻 Development
-   ↓
-🤖 Intelligence
-   ↓
-🚀 Product
+---
 
-</div>
+## ✦ A little about me
+
+I'm a **Computer Science Engineering student at SRM Easwari Engineering College** with a strong interest in building digital experiences that are both functional and enjoyable to use.
+
+I naturally gravitate toward the **frontend side of development** because I enjoy seeing an idea evolve from a simple sketch into something people can actually interact with.
+
+Along the way, I've also developed a strong interest in **UI/UX design and AI-powered applications**.
+
+```text
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the experience
+  ↓
+Build the interface
+  ↓
+Connect the technology
+  ↓
+Test • Improve • Learn
+```
+
+> I don't just want to build something that works.
+> I want to understand **why it should exist and how it should feel to use.**
 
 ---
 
-## 📊 My GitHub Journey
+## 🧩 What I enjoy working on
 
-I use GitHub to document my learning journey, experiment with technologies, build projects and continuously improve my development skills.
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎨 UI / UX
+
+Clean interfaces
+Wireframes
+Prototypes
+User-focused design
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Frontend
+
+Responsive interfaces
+Interactive experiences
+Component-based UI
+Web applications
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI & Product
+
+AI-powered ideas
+Career technology
+Smart features
+Real-world problem solving
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ My Technical Toolkit
+
+### 👩‍💻 Languages
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+
+### 🌐 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+### ⚛️ Technologies used in my projects
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+### 🗄️ Data
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### 🎨 Design
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+
+`Wireframing` · `Prototyping` · `Wix Studio` · `WordPress`
+
+### 🔧 Development & Deployment
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+---
+
+# 🚀 Things I've Built
+
+## 📍 MapMyMemoir
+
+### *Location-Based Journaling Platform*
+
+A journaling web application built around a simple idea:
+
+**What if your memories could live on the map where they happened?**
+
+MapMyMemoir allows users to create memories, attach locations, and revisit them through an interactive map.
+
+### ✨ What I worked on
+
+* 📌 Memory creation and location tagging
+* 🗺️ Interactive map-based experience
+* 🌍 Public Explore feed
+* 🔗 Coordinate extraction from Google Maps URLs
+* 📱 Responsive user interface
+* 🔄 GitHub-based CI/CD workflow
+* 🚀 Vercel deployment
+
+**Built with**
+
+`HTML5` `CSS3` `JavaScript` `Google Maps API` `GitHub` `Vercel`
+
+---
+
+## 🤖 Velora
+
+### *AI Career Assistant · Personal Project · In Progress*
+
+Velora started from a question:
+
+> **What if preparing for a career felt less overwhelming and more guided?**
+
+I'm developing Velora as an AI-powered career platform that brings different parts of the job-search journey into one experience.
+
+### ✨ Current direction
+
+```text
+Resume
+   ↓
+AI Analysis
+   ↓
+ATS Understanding
+   ↓
+Job Matching
+   ↓
+Skill Gap
+   ↓
+Interview Preparation
+   ↓
+Career Roadmap
+```
+
+### 🔍 Planned capabilities
+
+* 📄 Resume creation and analysis
+* 🎯 ATS score analysis
+* 🔎 Job description matching
+* ✨ AI-powered resume improvement
+* 📝 AI-generated cover letters
+* 🎤 Interview preparation
+* 🧠 Skill gap analysis
+* 🗺️ Personalized career roadmap
+
+**Built with**
+
+`Next.js` `React.js` `TypeScript` `Tailwind CSS` `Node.js` `AI APIs` `GitHub` `Vercel`
+
+> This project is currently **in progress**, and I'm using it as a space to learn, experiment and build with modern web technologies.
+
+---
+
+# 🧠 AI Journey
+
+During my **AI for Sustainability Virtual Internship**, I explored how AI can be applied to real-world sustainability challenges.
+
+### Areas I explored
+
+`Generative AI` · `Agentic AI` · `RAG`
+
+`Prompt Engineering` · `Responsible AI`
+
+Alongside the technical concepts, I explored **data-driven decision making, ethical AI practices, sustainability use cases and the UN Sustainable Development Goals.**
+
+This experience helped me become more interested in not just **what AI can do**, but also **how it should be used responsibly.**
+
+---
+
+# 🎨 Design meets Development
+
+One thing I particularly enjoy is moving between these two worlds:
+
+```text
+             🎨 DESIGN
+                │
+        ┌───────┴───────┐
+        │               │
+    User needs      Visual design
+        │               │
+        └───────┬───────┘
+                ↓
+           💻 DEVELOPMENT
+                │
+        ┌───────┴───────┐
+        │               │
+      Logic          Interaction
+        │               │
+        └───────┬───────┘
+                ↓
+             🚀 PRODUCT
+```
+
+For me, UI/UX isn't something separate from development.
+
+It's part of understanding **how people experience the product**.
+
+---
+
+# 🌱 Currently Growing
+
+I'm currently focusing on becoming stronger in:
+
+### 🧠 Problem Solving
+
+DSA · Logical Thinking · Coding Practice
+
+### 💻 Development
+
+Frontend Development · Modern Web Technologies
+
+### 🤖 AI
+
+AI APIs · AI-powered Product Experiences
+
+### 🎨 Design
+
+UI/UX · Usability · Product Thinking
+
+---
+
+# 🧭 My Learning Philosophy
+
+I don't believe in knowing everything before starting.
+
+I prefer:
+
+**Learn → Build → Break → Fix → Understand → Improve**
+
+Every project teaches me something different — sometimes it's a new technology, sometimes it's a better way to structure code, and sometimes it's simply learning what **not** to do next time.
+
+That's part of the fun. 🌱
+
+---
+
+# 💼 What I'm Looking For
+
+I'm currently interested in opportunities where I can:
+
+* 💻 Contribute to real-world frontend projects
+* 🎨 Work on meaningful user experiences
+* 🤖 Explore practical AI applications
+* 🧠 Strengthen my software development skills
+* 🤝 Learn from experienced teams
+* 🚀 Turn ideas into products people can actually use
+
+---
+
+# 📊 GitHub = My Learning Space
+
+I use GitHub not just to store code, but to document the journey behind it.
+
+```text
+        🌱 Learn
+           ↓
+        💡 Explore
+           ↓
+        💻 Build
+           ↓
+        🐛 Debug
+           ↓
+        ✨ Improve
+           ↓
+        🚀 Repeat
+```
+
+Some repositories are polished projects.
+
+Some are experiments.
+
+Some are simply evidence that I was learning something new.
+
+And I'm okay with that. ♡
+
+---
+
+# 📄 Resume
 
 <div align="center">
 
-🌱 **Learning**   →   💻 **Building**   →   ✨ **Improving**
+<a href="./SG-Sanju-Meha-Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-8BA888?style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-I'm always interested in:
-
-* 💼 Internship & career opportunities
-* 🤝 Collaboration
-* 💡 Interesting project ideas
-* 🎨 UI/UX discussions
-* 🤖 AI & emerging technologies
-* 🚀 Building meaningful digital products
+If you're interested in **frontend development, UI/UX, AI-powered products or just building something interesting**, I'd love to connect.
 
 <div align="center">
 
 <a href="https://sanjumeha19.github.io/SGSanjuMeha-portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-8BA888?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore-8BA888?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/sanjumeha/">
@@ -208,15 +369,19 @@ I'm always interested in:
 </a>
 
 <a href="mailto:sanjumeha19@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/📩%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+</div>
 
-### ✨ Thanks for visiting my profile! ✨
+<br>
 
-**Keep learning. Keep building. Keep creating. 🌷**
+<div align="center">
 
-⭐ *Feel free to explore my repositories and projects!*
+### 🌷 Thanks for stopping by!
+
+**Keep learning. Keep building. Keep creating.**
+
+*One project, one problem, and one small improvement at a time.* ✨
 
 </div>
