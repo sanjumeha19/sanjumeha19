@@ -283,15 +283,7 @@ DSA · Logical Thinking · Coding Practice
 
 ### 💻 Development
 
-Frontend Development · Modern Web Technologies
-
-### 🤖 AI
-
-AI APIs · AI-powered Product Experiences
-
-### 🎨 Design
-
-UI/UX · Usability · Product Thinking
+Exploring & Learning Full-stack In progress
 
 ---
 
